@@ -465,80 +465,80 @@ There are Game Booster app, Game optimizing service, and Game Launcher.
 
 
 1. Go to Apps and then click the Samsung app settings. Scroll to the Game Booster.<br>
-2. Turn off as much as you can. Then click Block During Game and shut off everything.<br>
-3. Next, in apps, find the game optimizing service - this cannot be disabled, but you can remove all permissions.<br>
-4. Last, search apps again and find the Game Launcher. You can remove the permissions and then disabled it.<br>
+2.尽量关掉。然后单击“游戏期间阻止”并关闭所有内容。<溴>
+3.接下来，在应用程序中，找到游戏优化服务-该服务无法禁用，但您可以移除所有权限。<溴>
+4.最后，再次搜索应用程序并找到游戏启动器。您可以移除权限，然后将其禁用。<溴>
 
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/samsung/game_booster_1.jpg">
-    <figcaption>1. Open Samsung app settings. </figcaption>
-  </figure>
+<div班级="img-block">
+  <数字>
+    <IMGsrc="/assets/img/samsung/game_superor_1.jpg">
+    <figcaption>1.打开三星应用程序设置。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/samsung/game_booster_2.jpg">
-    <figcaption>2. Find Game booster app.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/samsung/game_superor_2.jpg">
+    <figcaption>2.找到游戏助推器应用。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/samsung/game_booster.jpg">
-    <figcaption>3. Disable all the options. </figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/samsung/game_booster.jpg">
+    <figcaption>3、关闭所有选项。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/samsung/game_booster_4.jpg">
-    <figcaption>4. In Samsung app settings find Game optimizing. </figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/samsung/game_booster_4.JPG">
+    <figcaption>4.在三星应用程序设置中找到游戏优化。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/samsung/game_booster_5.jpg">
-    <figcaption>5. Remove all its permission.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/samsung/game_superor_5.jpg">
+    <figcaption>5.删除其所有权限。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/samsung/game_booster_3.jpg">
-    <figcaption>6. Find Game launcher and disable it.</figcaption>
-  </figure>
-
-</div>
-
-
-### Optimize battery usage
-Battery optimizations are hidden under each app's settings section. To disable the optimization for the app, you need to expand the sub-menu, so the list reveals the apps, that are restricted.
-Open _System settings -> Apps -> Your app -> Optimize battery usage_, expand the list, and then set the app to "not optimized" with the toggle.
-
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/samsung/battery_optimization_9_1.jpg">
-    <figcaption>1. Optimize battery usage.</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/samsung/battery_optimization_9_2.jpg">
-    <figcaption>2. Expand the list.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/samsung/game_superor_3.jpg">
+    <figcaption>6.找到游戏启动器并将其禁用。</figcaption>
+  </数字>
 
 </div>
 
-## Android Oreo and Nougat 8 + 7
 
-With the introduction of their flagship Galaxy S8 (and with some earlier experiments), Samsung has introduced an  attempt at prolonging battery life called <strong>App power monitor</strong>. <br>
+###优化电池使用
+电池优化隐藏在每个应用程序的设置部分。若要禁用该应用程序的优化，您需要展开子菜单，这样列表将显示受限制的应用程序。
+打开_系统设置->应用程序->您的应用程序->优化电池使用_，展开列表，然后使用切换将应用程序设置为“未优化”。
 
-### App power monitor
+<div班级="img-block">
+  <数字>
+    <IMGsrc="/assets/img/samsung/battery_optimization_9.jpg">
+    <figcaption>1.优化电池使用。</figcaption>
+  </数字>
 
-App power monitor can be turned off completely, or you can manage the apps individually.<br>
-For your apps to work correctly in the background, you need to whitelist them in _App power monitor_ and add them to <strong>Unmonitored apps</strong>:<br>
-<br>
-Open the _Settings -> Device maintenance -> Battery_, and at the bottom you’ll see a list of your most frequently used apps.<br>
-Apps that are sleeping will appear in the <strong>Sleeping apps</strong> list at the bottom (tap it to expand the list).<br>
-List of <strong>Unmonitored apps</strong> is at the very bottom (longer scrolling is needed) - these are apps that you specifically want to exclude (whitelist) from *App power monitor* evil reach. <br>
-When inside the _Unmonitored apps_ menu, you can tap the 3-dot menu to add or delete apps from the list.<br>
+  <数字>
+    <IMGsrc="/assets/img/samsung/battery_optimization_9.jpg">
+    <figcaption>2.展开列表。</figcaption>
+  </数字>
 
-## Android Marshmallow and below
+</div>
 
-On other Samsung phones, the path may look like this:<br>
+##安卓奥利奥和牛轧糖8+7
 
-*Phone settings > Applications > select three dot menu (top right corner) > Special Access > Optimize Battery usage >* Find your app on the list and make sure that it is not selected.
+随着Galaxy S8的推出(以及一些早期的实验)，三星推出了一种延长电池寿命的尝试，名为<强大的>app电源监控</强大的>.<溴>
 
-> Note: If you enable "Edge Lighting" for your app, the app will not be able to wake up your screen. To allow your app to wake up your screen, please remove it from the Edge Lighting applications list.
+###app电源监控
+
+可完全关闭应用程序电源监控，也可单独管理应用程序。<溴>
+要使应用程序在后台正常工作，您需要将它们列入_app电源监控_并将它们添加到<强大的>未受监控的应用程序</强大的>:<溴>
+<溴>
+打开_设置->设备维护->电池_，在底部，您将看到您最常用的应用程序列表。<溴>
+正在休眠的应用程序将显示在<强大的>休眠应用程序</强大的>列表位于底部(点击可展开列表)。<溴>
+列表<强大的>未受监控的应用程序</强大的>位于最底部(需要更长的滚动时间)-这些是您特别希望排除(白名单)的应用程序*app电源监控*邪恶的触角。<溴>
+当在内部_未受监控的应用程序_菜单，您可点击3点菜单从列表中添加或删除应用程序。<溴>
+
+##Android Marshmallow及以下版本
+
+在其他三星手机上，路径可能如下所示：<溴>
+
+*电话设置>应用程序>选择三点菜单(右上角)>特殊访问>优化电池使用>*在列表中查找您的应用程序，并确保未选中该应用程序。
+
+>注意：如果您为应用程序启用“侧屏照明”，应用程序将无法唤醒您的屏幕。若要允许应用程序唤醒屏幕，请将其从侧屏照明应用程序列表中移除。
 
